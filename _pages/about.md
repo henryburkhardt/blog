@@ -5,7 +5,7 @@ defaults:
   # _pages
   - scope:
       path: ""
-      type: pages
+      type: splash
     values:
       layout: single
       author_profile: true
