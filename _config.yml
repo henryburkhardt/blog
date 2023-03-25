@@ -104,7 +104,7 @@ analytics:
 # Site Author
 author:
   name: "Henry Burkhardt"
-  avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar: "/assets/images/bio_photo.jpeg"
   bio: "Writing about my **unprofessional** opinions on computer science, philosophy and politics."
   location: "Carleton College"
   email:
