@@ -5,3 +5,5 @@ header:
   image: /assets/images/radianClock.png
   og_image: /assets/images/radianClock.png
 ---
+
+Academically inconvenient horological method.
